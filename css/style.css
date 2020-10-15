@@ -1,0 +1,117 @@
+/********************** Tag Section ************************/
+body {
+  background-color: white;
+  margin: 0px;
+  text-align: left;
+  font-size: 100%
+}
+
+h1 {
+  margin: 0px;
+}
+
+a:hover {
+  color: #ed6663;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
+a {
+  color: #f8bd7f;
+  text-decoration: none;
+}
+
+/********************** Class Section ************************/
+.Top-Container {
+  background-color: #00587a;
+  height: 180px;
+  width: auto;
+}
+
+.headertext {
+  font-family: fantasy;
+  color: white;
+  text-shadow: 1px 1px black;
+  text-align: left;
+  position: relative;
+  top: 30px;
+  left: 30px;
+}
+
+
+.middle-container {
+  height: 300px;
+  padding: 10px;
+}
+
+.footer {
+  position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #00334e;;
+    color: white;
+    text-align: center;
+}
+
+.secmaintext {
+  position: absolute;
+  font-family: cursive;
+  font-size: 10px;
+  left: 130px;
+  top: 60px;
+}
+
+.profile {
+  background-color: #f1f3f8;
+  border-style: solid;
+  border-radius: 1%;
+  padding-left: 110px;
+  padding-bottom: 20px;
+}
+
+.profileimg {
+  position: absolute;
+  top: 220px;
+  left: 15px;
+}
+
+/********************** ID Section ************************/
+#mainheadertext {
+  font-size: 3rem;
+  font-family: 'Dancing Script', cursive;
+}
+
+#secmainheadertext {
+  font-size: 1rem;
+  font-family: cursive;
+}
+
+#footertext {
+  color: white;
+  font-size: 1rem;
+}
+
+#contactme {
+  color: white;
+  font-family: serif;
+}
+
+#tablefooter {
+  position:absolute;
+  left: 450px;
+}
+
+#profile {
+  border-radius: 50%
+}
